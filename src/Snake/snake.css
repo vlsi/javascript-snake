@@ -1,0 +1,11 @@
+.snake_body {
+    position: absolute;
+    color: green;
+    width: 34px;
+    height: 34px;
+}
+#score{
+    position: fixed;
+    left:22px;
+    top:111px;
+}
